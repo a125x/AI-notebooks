@@ -1,1 +1,2 @@
-# AI-notebook-1
+# AI-notebook
+Homework for AI lessons
